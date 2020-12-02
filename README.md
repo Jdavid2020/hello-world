@@ -1,3 +1,3 @@
 # hello-world
 Primer repositorio
-Estudiante venezolano, receien incursionando en la programación.  
+Estudiante venezolano, recien incursionando en la programación.  
