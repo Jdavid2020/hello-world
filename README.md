@@ -1,2 +1,3 @@
 # hello-world
-Primer repositorio 
+Primer repositorio
+Estudiante venezolano, receien incursionando en la programación.  
